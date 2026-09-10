@@ -1,0 +1,17 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE and OS
+.codex
+.idea/
+.vscode/
+.DS_Store
+
+# Reference materials
+*.pdf
